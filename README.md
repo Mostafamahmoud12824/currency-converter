@@ -16,3 +16,8 @@ To build this python currency converter project, you need to have basic knowledg
 Tkinter: To create the GUI components of this app, ranging from the widgets to the window.
 Requests: To get the HTTP requests to communicate with the servers of the ExchangeRate API directly.
 
+This is a currency converter created by scraping "https://www.x-rates.com".
+
+This converter allows you to convert 96 different currencies to each other. You can both see the converted amount and unit price.
+
+`BeautifulSoup` , `tkinter and 'requests' libraries are required.
