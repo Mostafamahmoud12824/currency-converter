@@ -20,4 +20,4 @@ This is a currency converter created by scraping "https://www.x-rates.com".
 
 This converter allows you to convert 96 different currencies to each other. You can both see the converted amount and unit price.
 
-`BeautifulSoup` , `tkinter' and 'requests' libraries are required.
+`BeautifulSoup` , `tkinter` and `requests` libraries are required.
